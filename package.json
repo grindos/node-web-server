@@ -8,6 +8,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "grindos",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grindos/node-web-server"
+  },
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.3",
